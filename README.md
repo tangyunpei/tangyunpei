@@ -176,8 +176,6 @@ const tangyunpei = {
   <img alt="github-snake" src="https://raw.githubusercontent.com/tangyunpei/tangyunpei/output/github-snake-dark.svg" />
 </picture>
 
-> ⚠️ *需要在仓库中设置 GitHub Actions 来生成贪吃蛇动画，详见下方说明*
-
 </div>
 
 ---
