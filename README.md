@@ -13,15 +13,14 @@
 
 ```js
 const tangyunpei = {
-    pronouns: "he" | "him",
     code: ["Dart", "Rust", "Python", "Vue", "Go", "TypeScript", "Swift"],
     currentFocus: {
-        flagship: "Chrip Chrip 啾啾信号 🐦 (App Store)",
-        personal: ["Couponio 🎫", "OpenAlpaca 🦙"],
-        org: "humanbook 📖"
+        flagship: "Chrip Chrip (App Store)",
+        personal: ["Couponio", "OpenAlpaca"],
+        org: "humanbook"
     },
     architecture: ["Full-Stack", "Mobile", "Cloud Native"],
-    funFact: "I write code in 7+ languages and deploy on K3s ☸️"
+    funFact: "I write code in 7+ languages and deploy on K3s"
 };
 ```
 
