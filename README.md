@@ -9,7 +9,7 @@
 
 ---
 
-## 🧬 `$ whoami`
+## 🧬 About Me
 
 ```js
 const tangyunpei = {
