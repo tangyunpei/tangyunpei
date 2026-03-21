@@ -31,7 +31,6 @@ const tangyunpei = {
 - 🔭 Building **Couponio** (Dart/Flutter) & **OpenAlpaca** (Rust)
 - 🏢 Core member at **[@humanbook](https://github.com/humanbook)** — Flutter apps, Go backend, K3s infra
 - 🌱 Full-stack: **Vue** frontend + **Python** backend
-- 🎓 CSCI 6806 Capstone (Jupyter Notebook)
 - 🏷️ GitHub **PRO** badge holder
 - ⚡ 505+ contributions in the last year
 
@@ -61,7 +60,6 @@ const tangyunpei = {
 
 - 📱 **`notmissme-flutter`** — Flutter mobile client
 - ⚙️ **`chripchrip-server`** (Go) — Backend server
-- 🌐 **`notmissme-website`** — Product website
 
 📊 **v2.1.3** · Free · Social Networking · 49.4 MB
 
@@ -123,7 +121,6 @@ const tangyunpei = {
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=kubernetes&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
