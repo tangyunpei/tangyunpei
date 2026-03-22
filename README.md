@@ -128,23 +128,13 @@ const tangyunpei = {
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats-kappa-black-8dk78xz660.vercel.app/api?username=tangyunpei&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&v=2" />
 <img height="180em" src="https://github-readme-stats-kappa-black-8dk78xz660.vercel.app/api/top-langs/?username=tangyunpei&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=Jupyter%20Notebook&v=2" />
 </div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tangyunpei&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-</div>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tangyunpei&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
 </div>
 
 ---
